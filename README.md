@@ -26,6 +26,14 @@ Creating applications from the ground up can be challenging. My biggest challeng
 
 ---
 
+I have done alot extra reaserch in this challenge. I was really challenged to use alot of resources and problem solve. Al little over 30 hours was spent on this challenge, I used alot of new knowledge! Organization has also been one of my top priorities. The idea is for the code to read like a book. Gotta love formatting! (shift + command + f)
+
+---
+
+I spent several hours trying to get the app to respond with JavaScript. This in itself was very challenging.
+
+<img src= "./images/challenges1.png"/>
+
 
 
 
@@ -34,14 +42,20 @@ Creating applications from the ground up can be challenging. My biggest challeng
 ## VIctories
 I really enjoyed designing the page snd using "Coolors" as a resource for color pallets!
 
-<img src= "./assets/images/timedapp1.png"/>
+<img src= "./images/styles2.png"/>
 
 ---
 The app started to come along really nicely as I began to add style to it!
 
-<img src="./images.timedapp2.png"/>
+<img src= "./images/style1.png"/>
 
 ---
+
+The design aspect is proabably my favorite part of the process. I found another really cool resource for adding icons! I decided to utilize that also! 
+
+<img src= "./images/resources1.png"/>
+
+
 
 ## Resources 
 

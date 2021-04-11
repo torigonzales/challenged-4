@@ -3,7 +3,6 @@
 
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width,. inital-scale-1.0" />
     <title> Web Quiz </title>
     <link rel="stylesheet" href="./css/style.css" />
     <script src="https://kit.fontawesome.com/9320cae0f9.js" crossorigin="anonymous"></script>
@@ -17,8 +16,8 @@
             <span>Quiz Rules</span>
         </div>
         <div class="info-list">
-            <div class="info">1. You will have <span>20 seconds</span> per each question.</div>
-            <div class="info">2. Once you select an answer, you are unable to reselct another ansewr.</div>
+            <div class="info">1. You will have <span>20 seconds</span> to answer each question.</div>
+            <div class="info">2. Once you select an answer, you are unable to reselct another answer.</div>
             <div class="info">3. Once time has elapsed you are unable to select an answer.</div>
             <div class="info">4. You are unable to exit from the quiz while playing.</div>
             <div class="info">5. You'll get points based on how many correct answers you get!</div>
@@ -44,12 +43,12 @@
             <div class="option-list">
                 <div class="option">
                     <span>Hyper Tool Manipulated Language</span>
-                    <div class icon="icon tick"><i class="fas fa-check"></i></div>
+                    <div class icon="icon-tick"><i class="fas fa-check"></i></div>
                 </div>
 
                 <div class="option">
                     <span>Hyper Text Markup Language</span>
-                    <div class icon="icon cross"><i class="fas fa-times"></i></div>
+                    <div class icon="icon-cross"><i class="fas fa-times"></i></div>
                 </div>
 
                 <div class="option">
@@ -65,7 +64,9 @@
 
         <footer>
             <div class="total-questions">
-                <span> <p>2</p>of<p>5</p>Questions</span>
+                <span>
+                    <p>2</p>of<p>5</p>Questions
+                </span>
             </div>
             <button class="next-button">Next</button>
         </footer>
@@ -73,19 +74,23 @@
 
     <div class="result-box">
         <div class="icon">
-        <i class ="fas fa-star"></i>
-    </div>
-    <div class="complete-text">You've completed the Quiz!</div>
-    <div class="score-text">
-        <span>Oh No! You only got <p>2</p> out of <p>5</p></span>
-    </div>
-    <div class="buttons">
-        <button class="restart">Try Again</button>
-        <button class="quit">Quit</button>
+            <i class="fas fa-star"></i>
+        </div>
+        <div class="complete-text">You've completed the Quiz!</div>
+        <div class="score-text">
+            <span>Oh No! You only got <p>2</p> out of <p>5</p></span>
+        </div>
+        <div class="buttons">
+            <button class="restart">Continue</button>
+            <button class="quit">Exit</button>
 
-    </div>
+        </div>
+
+        <script src="scripts/script.js"></script>
+        <script src="scripts/questions.js"></script>
 
 
 
 </body>
+
 </html>
