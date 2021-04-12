@@ -16,12 +16,12 @@ let questions = [
     {
         numb: 2,
         question: "What does PHP stand for?",
-        answer: "Hypertext Preprocessor",
+        answer: "PHP Hypertext Preprocessor",
         options: [
-            "Proper hazard porportions",
+            "Proper hazard proportions",
             "Pretend hyper possums",
             "Parachute hydrogen prep",
-            "Hypertext Preprocessor"
+            "PHP Hypertext Preprocessor"
         ]
     },
     {
@@ -30,7 +30,7 @@ let questions = [
         answer: "Cascading Style Sheets",
         options: [
             "Casual standard setup",
-            "Controled stationary sentence",
+            "Control stationary sentence",
             "Cascading sideways styles",
             "Cascading Style Sheets"
         ]
@@ -39,7 +39,7 @@ let questions = [
 
         numb: 4,
         question: "What do we consider HTML to be in a web application?",
-        answer: "The Skeletlon",
+        answer: "The Skeleton",
     options: [
             "The feet",
             "The hands",

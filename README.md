@@ -15,18 +15,18 @@
 Challenge #4- Timed quiz generator 
 
 ## Introduction 
-This week we were challenged to create a timed quiz. I decided to base my questions on some knowledge I have gained in the coarse so far!  I really enjoyed creating this quiz! 
+This week we were challenged to create a timed quiz. I decided to base my questions on some knowledge I have gained in the course so far!  I really enjoyed creating this quiz! 
 
 
 ---
 
 ## Challenges
 
-Creating applications from the ground up can be challenging. My biggest challenge was really just remembering the correct order of the syntax. I made sure to use as many resources as possilble!
+Creating applications from the ground up can be challenging. My biggest challenge was really just remembering the correct order of the syntax. I made sure to use as many resources as possible!
 
 ---
 
-I have done alot extra reaserch in this challenge. I was really challenged to use alot of resources and problem solve. Al little over 30 hours was spent on this challenge, I used alot of new knowledge! Organization has also been one of my top priorities. The idea, is for the code to read like a book. Gotta love formatting! (shift + command + f)
+I have done a lot extra reaserch in this challenge. I was really challenged to use alot of resources and problem solve. Al little over 30 hours was spent on this challenge, I used alot of new knowledge! Organization has also been one of my top priorities. The idea, is for the code to read like a book. Gotta love formatting! (shift + command + f)
 
 ---
 
