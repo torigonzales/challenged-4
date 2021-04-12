@@ -7,8 +7,8 @@ const continue_btn = info_box.querySelector(".buttons .restart");
 const quiz_box = document.querySelector(".quiz-box");
 const result_box = document.querySelector(".result-box");
 const option_list = document.querySelector(".option-ist");
-const time_line = document.querySelector("header .time-ine");
-const timeText = document.querySelector(".timer .time-left-txt");
+const time_line = document.querySelector("header .time-line");
+const timeText = document.querySelector(".timer .time-left-text");
 const timeCount = document.querySelector(".timer .timer-seconds");
 
 
@@ -125,7 +125,7 @@ function optionSelected(answer) {
     let userAns = answer.textContent;
     let correcAns = questions[que_count].answer;
 
-    const allOptions = option_list.children.length;
+    const allOptions = option-list.children.length;
 
     if (userAns == correcAns) {
         userScore += 1;

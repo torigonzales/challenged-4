@@ -2,7 +2,6 @@
 
 let questions = [
     {
-
         numb: 1,
         question: "What does HTML stand for?",
         answer: "Hyper Text Markup Language",
@@ -15,7 +14,6 @@ let questions = [
 
     },
     {
-
         numb: 2,
         question: "What does PHP stand for?",
         answer: "Hypertext Preprocessor",
@@ -24,10 +22,9 @@ let questions = [
             "Pretend hyper possums",
             "Parachute hydrogen prep",
             "Hypertext Preprocessor"
-
-},
+        ]
+    },
     {
-
         numb: 3,
         question: "What does CSS stand for?",
         answer: "Cascading Style Sheets",
@@ -36,8 +33,8 @@ let questions = [
             "Controled stationary sentence",
             "Cascading sideways styles",
             "Cascading Style Sheets"
-
-},
+        ]
+    },
     {
 
         numb: 4,
@@ -48,8 +45,9 @@ let questions = [
             "The hands",
             "The meat",
             "The Skeleton"
+        ]   
 
-},
+    },
     {
 
         numb: 5,
@@ -66,5 +64,5 @@ let questions = [
 
     ];
 
-    
+
 
