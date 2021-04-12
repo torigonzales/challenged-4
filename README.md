@@ -39,7 +39,7 @@ I spent several hours trying to get the app to respond with JavaScript. This in 
 
 ---
 
-## VIctories
+## Victories
 I really enjoyed designing the page and using "Coolors" as a resource for color pallets!
 
 <img src= "./images/styles2.png"/>
